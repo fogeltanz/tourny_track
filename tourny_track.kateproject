@@ -1,0 +1,5 @@
+{
+"name": "tourny_track",
+"directory": "/home/rails_projects/tourny_track",
+"files": [ { "directory": "kate", "git": 1, "recursive": 1 } ]
+}
